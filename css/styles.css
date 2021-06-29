@@ -126,6 +126,7 @@ body {
     display: inline-block;
     width: 100px;
     margin: 30px;
+    color: #4ab19a;
 }
 
 .copyright {
@@ -135,4 +136,9 @@ body {
 
 .freepik {
     font-size: 10px;
+}
+
+
+a:visited {
+    color: #4ab19a;
 }
